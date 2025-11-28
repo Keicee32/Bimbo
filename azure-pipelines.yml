@@ -14,8 +14,7 @@ trigger:
 variables:
   name: John
 
-pool:
-  vmImage: ubuntu-latest
+pool: TestPool
 
 jobs:
 
